@@ -1,4 +1,4 @@
-# taylor2-materialfluss_simulation
+# taylor2-materialfluss
 Materialfluss-Simulation mit "Tayler II" ( Optimierung Maschinenmagazin, Warenausgangskontrolle, Flaschenetikettierung,  Nacharbeit von Montageteilen, Regallager, Montagesystem, Maschinenwartung, Lagerbestand )
 
 Die Simulationen wurden mit der kommerziellen Vollversion von “Taylor II” unter Windows erstellt.
