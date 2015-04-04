@@ -8,7 +8,7 @@ Mit folgender Software läßt sich das Projekt laden und ausführen:
 - Demo-Version “Taylor II 4.2”
 - Evaluation-Version "ShowFlow" von "ShowFLow Simulation Software" http://www.showflow.com/
 - Demo-Version "Flexsim" von Flexsim Software Products, Inc. http://www.flexsim.com/
-- 
+
 Mit folgender Software läßt sich das Projekt laden, ändern und abspeichern:
 - "ShowFlow" von ShowFlow Simulation Software http://www.showflow.com/ - Der offizielle "Nachfolger" von Taylor II"
 - "Flexsim" von Flexsim Software Products, Inc. http://www.flexsim.com/ - Einige Mitarbeiter von “Enterprise Dynamics Inc.” begannen mit der Entwicklung von Flexsim und veröffentlichten das Produkt, nachdem das Unternehmen sich aufspaltete.
